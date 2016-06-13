@@ -16,16 +16,16 @@ Use JavaScript objects, for loops, if statements and innerHTML to show the music
 
 Students must use JavaScript to filter objects, modify them, and output lists to the DOM. Use the `songObjects` array of objects that was created in the Objective Reasoning exercise.
 
-1. Add a few more songs with the similar artists, genres and albums.
-1. When a song is added it shoud be added not only to the DOM but to the array of objects as well.
 1. For the song section: Create separate conditionals that will output one, two, three and more than three word songs to the DOM in order (ie list one word songs first, two word songs second, etc).
 1. For the artist section: Create separate conditionals that will output artists alphabetically. If an artist starts with `The`, ignore it and alphabetize it. If the artist is someone's name, alphabetize it by the last name.
 1. For the album section: Create separate conditionals that will output duplicate albums to the DOM only once.
 1. For the genre section: Create separate conditionals that will output duplicate genres to the DOM only once.
-1. Using conditionals output the favorite artist, album and genre to the DOM. For this exercise determine this by the number of times the artist, album and genre appear in the `songObject`.
+1. Add a few more songs with the similar artists, genres and albums.
+1. When a song is added it shoud be added not only to the DOM but to the array of objects as well.
 
 #### Bonus
 *   Refactor your code to accomplish the same results using only one conditional for each output type.
+*   Using conditionals output the favorite artist, album and genre to the DOM. For this exercise determine this by the number of times the artist, album and genre appear in the `songObject`.
 
 
 ## Merging your branch
