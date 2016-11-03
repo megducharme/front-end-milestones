@@ -3,7 +3,6 @@
 #### Advanced Functions
 
 1. [Calculator](SP_JS_ADVANCED_FUNCTIONS_CALCULATOR.md)
-1. [Cars](SP_JS_ADVANCED_FUNCTIONS_CARS.md)
 
 #### Array Functions
 
@@ -17,10 +16,12 @@
 1. [Dynamic cards](SP_JS_EVENT_LISTENERS_DYNAMIC_CARDS.md)
 1. [WYSIWYG](SP_JS_EVENT_LISTENERS_WYSIWYG.md)
 1. [Music History 3](SP_JS_MUSIC_HISTORY_3.md)
+1. [TSA](SP_JS_EVENT_LISTENERS_TSA.md)
 
 #### IIFE
 
 1. [Sandwich maker](SP_JS_IIFE_SANDWICH.md)
+1. [Walk-A-Thon](SP_JS_IIFE_BOOTSTRAP.md)
 
 #### XHRs
 
@@ -31,6 +32,12 @@
 # In-class Exercises
 
 1. Planets
+
+# Muscle Memory Exercises
+
+1. [Arrays](SP_MM_ARRAYS.md)
+1. [For](SP_MM_FOR.md)
+1. [Objects](SP_MM_OBJECTS.md)
 
 # Group Exercises
 
